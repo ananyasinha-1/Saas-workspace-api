@@ -33,7 +33,7 @@ async function start() {
           env: config.env,
           docs: `http://localhost:${config.server.port}/api-docs`,
         },
-        `🚀 Server started`
+        ` Server started`
       );
     });
   } catch (err) {

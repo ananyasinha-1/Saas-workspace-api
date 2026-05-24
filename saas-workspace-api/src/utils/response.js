@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * src/utils/response.js
+ * 
  *
  * Standardised API response envelope helpers.
  * All controllers use these to ensure a consistent response shape:

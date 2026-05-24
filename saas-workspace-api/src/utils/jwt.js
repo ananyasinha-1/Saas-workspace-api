@@ -1,13 +1,11 @@
 'use strict';
 
-/**
- * src/utils/jwt.js
- *
- * JWT helpers for signing and verifying access and refresh tokens.
- * Access tokens are short-lived (15 min) and carry the user identity.
- * Refresh tokens are long-lived (7 days) and are stored in the database
- * so they can be explicitly revoked on logout.
- */
+
+  // JWT helpers for signing and verifying access and refresh tokens.
+  // Access tokens are short-lived (15 min) and carry the user identity.
+  // Refresh tokens are long-lived (7 days) and are stored in the database
+  // so they can be explicitly revoked on logout.
+ 
 
 const jwt = require('jsonwebtoken');
 const config = require('../config');

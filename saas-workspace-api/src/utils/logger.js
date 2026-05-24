@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * src/utils/logger.js
+ * 
  *
  * Pino structured logger — the single logging instance for the app.
  *
