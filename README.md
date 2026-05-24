@@ -1,11 +1,19 @@
 # SaaS Team Workspace API
 
-A production-style backend demonstrating **Authentication**, **JWT token management**, and **Role-Based Access Control (RBAC)** — patterns used in real team collaboration platforms like Notion, Linear, and Vercel.
+A production-style backend demonstrating **Authentication**, **JWT token management**, and **Role-Based Access Control (RBAC)**  patterns used in real team collaboration platforms like Notion, Linear, and Vercel.
 
 Built with Node.js, Express, PostgreSQL, Prisma, Redis, and documented with Swagger/OpenAPI.
 
 ---
+## 🤝 Contributing
 
+Contributions are welcome! Whether you're fixing a bug, adding a feature, or improving the docs  we'd love your help.
+
+Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) to get started.
+
+This project is part of **GirlScript Summer of Code (GSSoC)** 
+
+---
 ## Table of Contents
 
 1. [Project Overview](#1-project-overview)
